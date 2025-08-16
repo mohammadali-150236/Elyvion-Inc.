@@ -60,7 +60,7 @@ main {
 .p3{
     font-size: 1rem;
     margin-bottom: 10px;
-    color: #ffffff;
+    color: white;
 }
 
 /* Footer */
@@ -71,4 +71,5 @@ footer {
     font-size: 0.9rem;
     color: #ffffff;
 }
+
 
