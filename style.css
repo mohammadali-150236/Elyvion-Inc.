@@ -57,6 +57,11 @@ main {
     font-size: 1rem;
     color: #10c9ee;
 }
+.p3{
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
 
 /* Footer */
 footer {
@@ -66,3 +71,4 @@ footer {
     font-size: 0.9rem;
     color: #ffffff;
 }
+
